@@ -140,6 +140,7 @@ setup(
         'scripts/gearboxutil',
         'scripts/generate_dump',
         'scripts/generate_shutdown_order.py',
+        'scripts/gpins_techsupport',
         'scripts/intfutil',
         'scripts/intfstat',
         'scripts/ipintutil',
